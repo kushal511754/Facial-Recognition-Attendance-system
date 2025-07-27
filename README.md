@@ -1,2 +1,2 @@
-# Facial-Recognition-Attendance-system
-This system is designed to make taking attendance easier and faster using face recognition technology. Instead of calling names the system uses a camera to scan people’s faces and automatically marks their attendance.
+# Facial-Recognition-Attendance-system-
+in this project we marke the attendance by the facial recognition of the user and update the data into the firebase database in the real time by the use of python 
